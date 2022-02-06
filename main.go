@@ -1,8 +1,5 @@
 package main
 
-// Golang is fucking amazing
-// This code is meant to be simple, not fast
-
 import (
 	"bufio"
 	"fmt"
